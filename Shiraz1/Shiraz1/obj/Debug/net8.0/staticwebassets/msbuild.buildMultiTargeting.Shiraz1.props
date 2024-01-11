@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Shiraz1.props" />
+</Project>
