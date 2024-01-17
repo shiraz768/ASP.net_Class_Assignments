@@ -21,6 +21,18 @@ namespace Shiraz1.Controllers
         {
             return View();
         }
+        public IActionResult Button()
+        {
+            return View();
+        }
+        public IActionResult Chart()
+        {
+            return View();
+        }
+        public IActionResult Typography()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

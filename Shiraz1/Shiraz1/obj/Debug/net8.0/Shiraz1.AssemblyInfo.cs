@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shiraz1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+625fa525fd412b3933b320621a5fe7e7817e1d60")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shiraz1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shiraz1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

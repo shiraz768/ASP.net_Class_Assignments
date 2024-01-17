@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SD\\source\\repos\\Shiraz1\\Shiraz1\\Shiraz1.csproj": {}
+    "C:\\Users\\SD\\OneDrive\\Desktop\\gitrepo\\ASP.net_Class_Assignments\\Shiraz1\\Shiraz1\\Shiraz1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SD\\source\\repos\\Shiraz1\\Shiraz1\\Shiraz1.csproj": {
+    "C:\\Users\\SD\\OneDrive\\Desktop\\gitrepo\\ASP.net_Class_Assignments\\Shiraz1\\Shiraz1\\Shiraz1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SD\\source\\repos\\Shiraz1\\Shiraz1\\Shiraz1.csproj",
+        "projectUniqueName": "C:\\Users\\SD\\OneDrive\\Desktop\\gitrepo\\ASP.net_Class_Assignments\\Shiraz1\\Shiraz1\\Shiraz1.csproj",
         "projectName": "Shiraz1",
-        "projectPath": "C:\\Users\\SD\\source\\repos\\Shiraz1\\Shiraz1\\Shiraz1.csproj",
+        "projectPath": "C:\\Users\\SD\\OneDrive\\Desktop\\gitrepo\\ASP.net_Class_Assignments\\Shiraz1\\Shiraz1\\Shiraz1.csproj",
         "packagesPath": "C:\\Users\\SD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SD\\source\\repos\\Shiraz1\\Shiraz1\\obj\\",
+        "outputPath": "C:\\Users\\SD\\OneDrive\\Desktop\\gitrepo\\ASP.net_Class_Assignments\\Shiraz1\\Shiraz1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SD\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.1, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",

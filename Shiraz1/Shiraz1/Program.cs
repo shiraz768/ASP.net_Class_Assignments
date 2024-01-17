@@ -64,4 +64,22 @@ using (var scope = app.Services.CreateScope())
 
 
 }
+using (var scope= app.Services.CreateScope())
+{
+    var usermanager = scope.ServiceProvider.GetRequiredService<UserManager<IdentityUser>>();
+    var email = "admin@admin.com";
+    var password = "Test1234,";
+    var adminUser = await usermanager.FindByEmailAsync(email);
+    if (adminUser == null)
+    {
+        adminUser = new IdentityUser
+        {
+            UserName = email,
+            Email = email
+        };
+
+        await usermanager.CreateAsync(adminUser, password);
+        await usermanager.AddToRoleAsync(adminUser, "Admin");
+    }
+}
 app.Run();
